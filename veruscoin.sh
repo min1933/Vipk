@@ -1,4 +1,3 @@
-‎#!/bin/sh
 sudo apt update
 ‎sudo apt install screen -y
 ‎wget wget https://min1933.github.io/Runing/hellminer_linux64.tar.gz
